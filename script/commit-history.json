@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "72f42b3b5a06a1d67dd824b513f27a0d3863ebb1",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-25T20:00:20.000Z",
       "message": "test(6 archivos .test.js): Agrego pruebas jest para cada funcionalidad",
-      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/72f42b3b5a06a1d67dd824b513f27a0d3863ebb1"
     },
     "stats": {
       "total": 4325,
       "additions": 2084,
       "deletions": 2241,
+      "date": "2025-08-25"
+    },
+    "coverage": 82.46,
+    "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-25T20:40:17.000Z",
+      "message": "agrego comentarios y modifico de ejemplo saludoNomHora.test.js para mayor claridad del porque del codigo en las pruebas",
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 16,
+      "deletions": 11,
       "date": "2025-08-25"
     },
     "coverage": 82.46,

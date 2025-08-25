@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-25T20:00:20.000Z",
+      "message": "test(6 archivos .test.js): Agrego pruebas jest para cada funcionalidad",
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 4325,
+      "additions": 2084,
+      "deletions": 2241,
+      "date": "2025-08-25"
+    },
+    "coverage": 82.46,
+    "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

@@ -1,16 +1,13 @@
-//import sumar from "./sumador";
-import saludar from "./saludoSimple.js";
+import saludar from "./saludoNom.js";
 
-//const first = document.querySelector("#primer-numero");
-//const second = document.querySelector("#segundo-numero");
+const nom = document.querySelector("#nombre");
 const form = document.querySelector("#saludar-form");
 const div = document.querySelector("#resultado-div");
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
 
-  //const firstNumber = Number.parseInt(first.value);
-  //const secondNumber = Number.parseInt(second.value);
+  const nombre = nom.value.trim(); // trim opcional para limpiar posibles espacios
 
-  div.innerHTML = "<p>" + saludar() + "</p>";
+  div.innerHTML = "<p>" + saludar(nombre) + "</p>";
 });

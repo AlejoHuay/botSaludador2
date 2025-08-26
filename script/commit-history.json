@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "488ffdf75f8818e340777ec89dbe81d5feb94099",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-26T14:26:32.000Z",
       "message": "feat: convierto 3 y cualquier numero  multiplo de 3",
-      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/488ffdf75f8818e340777ec89dbe81d5feb94099"
     },
     "stats": {
       "total": 11,
@@ -91,6 +91,25 @@
     },
     "coverage": 83.87,
     "test_count": 19,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-26T14:49:32.000Z",
+      "message": "completo it faltante del ultimo feat, antes de comenzar con la tarea para la casa",
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-08-26"
+    },
+    "coverage": 83.87,
+    "test_count": 20,
     "failed_tests": 0,
     "conclusion": "success"
   }

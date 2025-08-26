@@ -1,0 +1,8 @@
+- convertirFizzBuzz(n): 
+    - Numero no multiplo de 3 y 5. ejem: 1 -> '1'
+    - Numero multiplo de 3. Ejem: 3 -> 'Fizz'
+    - Numero multiplo de 5. Ejem: 5 -> 'Buzz'
+    - Numero multiplo de 3 y 5. Ejem: 15 -> 'FizzBuzz'
+-generarCadenaFizzBuzz(4):     
+    - Dado un numero por usr: generar toda la secuencia FizzBuzz hasta ese numero : 
+    Ejm: 4 -> "1 2 Fizz 4'

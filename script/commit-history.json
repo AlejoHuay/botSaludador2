@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f5ff8def54a2b47b58e10ffdb136fc3bd6d1e098",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-26T13:57:39.000Z",
       "message": "feat: agrego pruebas para dividir y restar 2 numeros cualquiera",
-      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/f5ff8def54a2b47b58e10ffdb136fc3bd6d1e098"
     },
     "stats": {
       "total": 44,
@@ -53,6 +53,25 @@
     },
     "coverage": 83.05,
     "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-26T14:17:57.000Z",
+      "message": "feat: convierto un numero y cualquier numero que no es multiplo de 3 ni 5",
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 22,
+      "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 83.33,
+    "test_count": 18,
     "failed_tests": 0,
     "conclusion": "success"
   }

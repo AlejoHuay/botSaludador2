@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d94238fd04e531fe65670b42e36718b186daa02d",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-25T20:40:17.000Z",
       "message": "agrego comentarios y modifico de ejemplo saludoNomHora.test.js para mayor claridad del porque del codigo en las pruebas",
-      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/d94238fd04e531fe65670b42e36718b186daa02d"
     },
     "stats": {
       "total": 27,
@@ -34,6 +34,25 @@
     },
     "coverage": 82.46,
     "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-26T13:57:39.000Z",
+      "message": "feat: agrego pruebas para dividir y restar 2 numeros cualquiera",
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 30,
+      "deletions": 14,
+      "date": "2025-08-26"
+    },
+    "coverage": 83.05,
+    "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
   }

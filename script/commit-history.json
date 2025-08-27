@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "add79baa26acf8bc922b3757d2b6f87e452d1ac1",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-26T15:00:52.000Z",
       "message": "feat: convierto cualquier numero multiplo de 5 a Buzz",
-      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/add79baa26acf8bc922b3757d2b6f87e452d1ac1"
     },
     "stats": {
       "total": 13,
@@ -131,5 +131,24 @@
     "test_count": 17,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-27T22:18:58.000Z",
+      "message": "ultimo commmit antes de reahcer fizzbuzz en un nuevo proyecto",
+      "url": "https://github.com/AlejoHuay/botSaludador2/commit/HEAD"
+    },
+    "stats": {
+      "total": 17,
+      "additions": 13,
+      "deletions": 4,
+      "date": "2025-08-27"
+    },
+    "coverage": 83.33,
+    "test_count": 23,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

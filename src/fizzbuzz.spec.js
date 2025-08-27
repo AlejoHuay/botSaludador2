@@ -1,7 +1,7 @@
 import convertirFizzBuzz from "./fizzbuzz";
 
 describe("Fizzbuzz", () => {
-  /*
+  
   it("deberia convertir un numero que no es multiplo de 3 ni 5", () => {
     expect(convertirFizzBuzz(1)).toEqual("1");
   });
@@ -20,10 +20,14 @@ describe("Fizzbuzz", () => {
 
   it("deberia convertir un multiplo de 5 a Buzz", () => {
     expect(convertirFizzBuzz(5)).toEqual("Buzz");
-  });*/
+  });
 
   it("deberia convertir cualquier numero multiplo de 5 a Buzz", () => {
     expect(convertirFizzBuzz(15)).toEqual("Buzz");
+  });
+
+  it("deberia convertir cualquier numero multiplo de 3 y 5 a FizzBuzz", () => {
+    expect(convertirFizzBuzz(15)).toEqual("FizzBuzz");
   });
 
 });
